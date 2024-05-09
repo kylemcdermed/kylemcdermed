@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @kylemcdermed
-- 👀 I’m interested in ... C++, Python, MQL4, MQL5
+- 👀 I’m interested in ... C++, Python, MQL4, MQL5, ML
 - 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Algorithmic Trading Projects
 - 📫 How to reach me ... via email --> kylemcdermed1@gmail.com 
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... HIM/HIMOTHY
 - ⚡ Fun fact: ... I'm a former D1 and Professional Basketball Player
 
 <!---
