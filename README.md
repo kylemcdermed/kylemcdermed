@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kylemcdermed
-- 👀 I’m interested in ... C++, Python, MQL4, MQL5, ML
-- 🌱 I’m currently learning ... C++
+- 👀 I’m interested in ... C++, Python, PineScript, ML, MQL4, MQL5
+- 🌱 I’m currently learning ... C++, Data Structures & Algorithms, Design Algorithms & Analysis
 - 💞️ I’m looking to collaborate on ... Algorithmic Trading Projects
 - 📫 How to reach me ... via email --> kylemcdermed1@gmail.com 
 - 😄 Pronouns: ... HIM/HIMOTHY
