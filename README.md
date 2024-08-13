@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... C++, Data Structures & Algorithms, Design Algorithms & Analysis, Stochastic Calculus for Finance 1 & 2
 - 💞️ I’m looking to collaborate on ... Algorithmic Trading Projects
 - 📫 How to reach me ... via email --> kylemcdermed1@gmail.com 
-- 😄 Pronouns: ... HIM/HIMOTHY
+- 😄 Pronouns: ... 
 - ⚡ Fun fact: ... I'm a former D1 and Professional Basketball Player
 
 <!---
