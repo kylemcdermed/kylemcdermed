@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kylemcdermed
-- 👀 I’m interested in ... C++, Python, Python ML, Pinescript, MQL4, MQL5
-- 🌱 I’m currently learning ... C++, Data Structures & Algorithms, Design Algorithms & Analysis, Stochastic Calculus for Finance 1 & 2
-- 💞️ I’m looking to collaborate on ... C++, Python, Algorithmic Trading Projects
+- 👀 I’m interested in ... C++, Python, HFT SWE, Algorithmic Trading, Quant Trading
+- 🌱 I’m currently learning ... C++, LeetCode, Mathematics, All Things HFT SWE Related
+- 💞️ I’m looking to collaborate on ... C++, Python, HFT SWE Projects
 - 📫 How to reach me ... via email --> kylemcdermed1@gmail.com 
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... I'm a former D1 and Overseas Basketball Player
