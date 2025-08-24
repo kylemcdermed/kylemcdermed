@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kylemcdermed
-- 👀 I’m interested in ... C++, Python, HFT SWE, Algorithmic Trading, Quant Trading
+- 👀 I’m interested in ... C++, Python, Rust, HFT SWE, Algorithmic Trading, Quant Trading
 - 🌱 I’m currently learning ... C++, LeetCode, Mathematics, All Things HFT SWE Related
 - 💞️ I’m looking to collaborate on ... C++, Python, HFT SWE Projects
 - 📫 How to reach me ... via email --> kylemcdermed1@gmail.com 
